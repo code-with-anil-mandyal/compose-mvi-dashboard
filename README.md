@@ -6,10 +6,9 @@ A modern Android application demonstrating MVI (Model View Intent) architecture 
 
 # Preview
 
-```md
-<img width="400" height="889" alt="mvi_demo_final" src="https://github.com/user-attachments/assets/16d4517f-4a78-4159-aac0-57efac697088" />
-
-```
+<p align="center">
+  <img src="./demo.gif" width="300" />
+</p>
 
 ---
 
